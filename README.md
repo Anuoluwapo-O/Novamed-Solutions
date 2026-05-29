@@ -188,11 +188,12 @@ This dashboard provides management with a centralized view of organizational per
 
 ### Sales Performance Overview
 
-Insert Screenshot 1 Here
+![Dashboard 1 Screenshots](https://github.com/Anuoluwapo-O/Novamed-Solutions/blob/main/Screenshot%202026-04-15%20110104.png)
 
 ### Customer & Profitability Analysis
 
-Insert Screenshot 2 Here
+![Dashboard 2 Screenshots](https://github.com/Anuoluwapo-O/Novamed-Solutions/blob/main/Screenshot%202026-04-15%20110204.png
+)
 
 ---
 
@@ -207,10 +208,17 @@ Potential future improvements include:
 * Market basket analysis
 * Real-time data refresh integration
 
+---
 
-LinkedIn: Add your LinkedIn profile link here
+## Author
 
-Portfolio: Add your portfolio link here
+### Anu Oketoki
+
+Data Analyst | Power BI Developer
+
+LinkedIn: https://www.linkedin.com/in/anu-oketoki-566467397/
+
+Portfolio: https://github.com/Anuoluwapo-O/Novamed-Solutions
 
 ---
 
